@@ -1,8 +1,0 @@
-node_modules/
-data/
-.env
-*.db
-*.db-shm
-*.db-wal
-.DS_Store
-Thumbs.db
